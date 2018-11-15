@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DetectarColisionesAbejas:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DetectarColisionesAbejas_jar</output-path>
+    <root id="archive" name="DetectarColisionesAbejas.jar">
+      <element id="module-output" name="DetectarColisionesAbejas" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/lib/groovy-all-2.4.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
